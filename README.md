@@ -8,7 +8,7 @@
 
 
 <br>![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoromeiro&theme=midnight-purple&show_icons=true)
-<img src="https://i.imgur.com/e0K1t06.gif" alt="alt text" width="350" align="right"/><br>
+<img src="https://i.imgur.com/e0K1t06.gif" alt="alt text" width="420" align="right"/><br>
 
 <br>
 <div  align="left"> 
