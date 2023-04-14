@@ -8,7 +8,7 @@
 
 
 <br>![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoromeiro&theme=midnight-purple&show_icons=true)
-<img src="https://i.imgur.com/e0K1t06.gif" alt="alt text" width="400" align="right"/><br>
+<img src="https://i.imgur.com/e0K1t06.gif" alt="alt text" width="350" align="right"/><br>
 
 <br><div  align="center"> 
   <div style="display: inline_block">
@@ -19,7 +19,6 @@
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
    </div></br>
 
-<br>![Snake animation](https://github.com/enzoromeiro/enzoromeiro/blob/output/github-contribution-grid-snake.svg)
     
 #### Em constante aprendizado, amando cada dia mais Tecnologia. 👨🏻‍💻
 
