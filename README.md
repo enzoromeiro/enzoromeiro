@@ -5,12 +5,7 @@
 
 <hr>
 
-<div style="overflow: hidden;">
-  <img style="float: left; margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoromeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img style="float: left;" align="right" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoromeiro&layout=compact&theme=github_dark"/>
-</div>
 
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
