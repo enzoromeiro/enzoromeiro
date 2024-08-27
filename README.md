@@ -16,9 +16,9 @@
   
 </div><br>
 
-## -Kali Linux
-## -Python
-## -MySQL
+## -Kali Linux 🐉
+## -Python 🐍
+## -MySQL 🐬
   
   
   ### Em constante aprendizado, amando cada dia mais Tecnologia. 👨🏻‍💻
