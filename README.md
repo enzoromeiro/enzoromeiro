@@ -16,12 +16,13 @@
   
 </div><br>
 
-## -Kali Linux 🐉
-## -Python 🐍
-## -MySQL 🐬
+## -KALI LINUX 🐉
+## -PYTHON 🐍
+## -SIEM 🎲⚙️
+## -EDR ⚡
+## -SNORT 🐷
   
-  
-  ### Em constante aprendizado, amando cada dia mais Tecnologia. 👨🏻‍💻
+  ### O aprendizado nunca chega ao fim, hoje sei mais que ontem e menos que amanhã... 👨🏻‍💻
     
 
     
