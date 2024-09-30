@@ -19,8 +19,8 @@
 ## -KALI LINUX 🐉
 ## -PYTHON 🐍
 ## -SIEM 🎲⚙️
-## -EDR ⚡
-## -SNORT 🐷
+## -EDR e XDR⚡
+## -PfSense 🛡
   
   ### O aprendizado nunca chega ao fim, hoje sei mais que ontem e menos que amanhã... 👨🏻‍💻
     
