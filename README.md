@@ -16,13 +16,13 @@
   
 </div><br>
 
-## -KALI LINUX 🐉
-## -PYTHON 🐍
-## -SIEM 🎲⚙️
-## -EDR e XDR⚡
-## -PfSense 🛡
+## -KALI LINUX 
+## -PYTHON 
+## -SIEM 
+## -EDR / XDR
+## -PfSense 
   
-  ### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis. 👨🏻‍💻
+  ### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis. 👨🏻‍💻🛡
     
 
     
