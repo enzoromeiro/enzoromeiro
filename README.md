@@ -16,16 +16,11 @@
   
 </div><br><br>
 
-- Sou graduando em Segurança da Informação e me considero um entusiasta do universo tecnológico e do movimento Cypherpunk. 🔒
+  Sou graduando em Segurança da Informação e me considero um entusiasta do universo tecnológico e do movimento Cypherpunk. 🔒
+  Meu objetivo é contribuir com a segurança cibernética das empresas, exercendo principalmente a função de SOC e respondendo a incidentes.  
   
 <div> 
 <br><br>
-
-## Objetivo
-
-Contribuir com a segurança cibernética das empresas, exercendo principalmente as funções de SOC e Resposta a Incidentes.  
-
-<br>
 
 ## Skills
 
@@ -34,37 +29,43 @@ Contribuir com a segurança cibernética das empresas, exercendo principalmente 
 |  em | breve... |
 
 
+<br>
 
 ## Tools
 
-### Redes
+### REDES
 <div>
     <img src="https://img.shields.io/badge/-Snort-BD1360?&style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-004872?&style=for-the-badge&logo=gnupg&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+</div><br>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</div><br>
 
 ### SO
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
+</div><br>
 
-### Virtualização
+### VIRTUALIZAÇÃO
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-</div>
+</div><br>
 
-### Linguagem
+### LINGUAGEM
 <div>
    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div>
+</div><br>
 
-## Projetos
+## PROJETOS
 - em breve
 
  <br><br> 
-### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis. 👨🏻‍💻🛡
+### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis! 👨🏻‍💻🛡
 </div>
 
 
