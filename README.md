@@ -17,7 +17,7 @@
 </div><br><br>
 
   Sou graduando em Segurança da Informação e me considero um entusiasta do universo tecnológico e do movimento Cypherpunk. 🔒
-  Meu objetivo é contribuir com a segurança cibernética das empresas, exercendo principalmente a função de SOC e respondendo a incidentes.  
+  Meu objetivo é contribuir com a segurança cibernética das empresas, exercendo principalmente funções de SOC, resposta a incidentes e threat hunting.  
   
 <div> 
 <br><br>
