@@ -42,7 +42,7 @@
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div><br>
 
 ### SO
