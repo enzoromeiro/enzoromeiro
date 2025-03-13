@@ -1,7 +1,11 @@
 <meta charset="UTF-8">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Eaii+/+what's+up🤘🏽;+me+chamo+Enzo+/+my+name+is+Enzo;+i'm+from+Brazil;+)](https://git.io/typing-svg)<br>
+<div>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=10000&color=A9A9A9&center=true&vCenter=true&repeat=false&width=1000&lines=erseceXe)](https://git.io/typing-svg)
+  
+</div>
 
 ---
 
@@ -13,31 +17,20 @@
   
   [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoromeiro17@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoromeiro/)
+  [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ersecexe)
+
   
-</div><br><br>
-
-  Sou graduando em Segurança da Informação e um entusiasta do movimento Cypherpunk 🔒. Busco contribuir para a segurança cibernética das empresas, atuando como Pentester e identificando vulnerabilidades, ajudando a fortalecer suas defesas. 
-  
-<div> 
-<br><br>
-
-## Skills
-
-| Título                                        | Projeto Associado          |
-|-----------------------------------------------|----------------------------|
-|  em | desenvolvimento... |
-
-
-<br>
-
 </div><br>
 
- <br><br> 
-### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis! 👨🏻‍💻🛡
-</div>
+<div> 
+  <br>
 
+  ## Skills
 
+  | Título                                        | Projeto Associado          |
+  |-----------------------------------------------|----------------------------|
+  |  em | desenvolvimento... |
 
-
+</div><br>
 
 
