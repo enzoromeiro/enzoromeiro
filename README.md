@@ -16,8 +16,7 @@
   
 </div><br><br>
 
-  Sou graduando em Segurança da Informação e me considero um entusiasta do universo tecnológico e do movimento Cypherpunk. 🔒
-  Meu objetivo é contribuir com a segurança cibernética das empresas, exercendo principalmente funções de SOC, resposta a incidentes e threat hunting.  
+  Sou graduando em Segurança da Informação e um entusiasta do movimento Cypherpunk 🔒. Busco contribuir para a segurança cibernética das empresas, atuando como Pentester e identificando vulnerabilidades, ajudando a fortalecer suas defesas. 
   
 <div> 
 <br><br>
@@ -26,23 +25,17 @@
 
 | Skill                                         | Projeto Associado          |
 |-----------------------------------------------|----------------------------|
-|  em | breve... |
+|  em | desenvolvimento... |
 
 
 <br>
 
-## Tools
+## Ferramentas
 
 ### REDES
 <div>
-    <img src="https://img.shields.io/badge/-Snort-BD1360?&style=for-the-badge&logo=shield&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-004872?&style=for-the-badge&logo=gnupg&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div><br>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div><br>
 
 ### SO
@@ -62,7 +55,7 @@
 </div><br>
 
 ## PROJETOS
-- em breve
+- em desenvolvimento
 
  <br><br> 
 ### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis! 👨🏻‍💻🛡
