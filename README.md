@@ -23,39 +23,14 @@
 
 ## Skills
 
-| Skill                                         | Projeto Associado          |
+| Título                                        | Projeto Associado          |
 |-----------------------------------------------|----------------------------|
 |  em | desenvolvimento... |
 
 
 <br>
 
-## Ferramentas
-
-### REDES
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-004872?&style=for-the-badge&logo=gnupg&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div><br>
-
-### SO
-<div>
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div><br>
-
-### VIRTUALIZAÇÃO
-<div>
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-</div><br>
-
-### LINGUAGEM
-<div>
-   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div><br>
-
-## PROJETOS
-- em desenvolvimento
 
  <br><br> 
 ### Quando negligenciamos os riscos, nos tornarmos os alvos mais provavéis! 👨🏻‍💻🛡
