@@ -25,11 +25,11 @@
 <div> 
   <br>
 
-  ## Skills
+  ## Skills & Lab
 
-  | Título                                        | Projeto Associado          |
-  |-----------------------------------------------|----------------------------|
-  |  em | desenvolvimento... |
+  | Título                                        | Projeto Associado          | Youtube                   |
+  |-----------------------------------------------|----------------------------|---------------------------|
+  |  IDOR & Session Hijacking | [laboratório](https://github.com/enzoromeiro/idor_sessionhijacking_lab) | [youtube](https://www.youtube.com/watch?v=RMkVELN-PJ0&t=2s) |
 
 </div><br>
 
