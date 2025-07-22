@@ -29,7 +29,7 @@
 
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
-  |  IDOR & Session Hijacking | [laboratório](https://github.com/enzoromeiro/idor_sessionhijacking_lab) | [youtube](https://www.youtube.com/watch?v=RMkVELN-PJ0&t=2s) |
+  |  IDOR & Session Hijacking | [laboratório](https://github.com/enzoromeiro/idor_sessionhijacking_lab) | [youtube](https://youtu.be/1sDIKj-OPDg?si=bk36aWt_oK4GutU-) |
 
 </div><br>
 
