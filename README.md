@@ -28,7 +28,8 @@
 
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
-  |  IDOR & Session Hijacking | [laboratório](https://github.com/enzoromeiro/idor_sessionhijacking_lab) | [youtube](https://youtu.be/1sDIKj-OPDg?si=bk36aWt_oK4GutU-) |
+  |  Wazuh SIEM - Identificação de pós-exploração através de Dashboard personalizado e auditoria de comandos Linux | [laboratório](https://github.com/enzoromeiro/wazuh-dashboard-rules) | |
+  |  IDOR e Session Hijacking | [laboratório](https://github.com/enzoromeiro/idor_sessionhijacking_lab) | [youtube](https://youtu.be/1sDIKj-OPDg?si=bk36aWt_oK4GutU-) |
 
 </div><br>
 
