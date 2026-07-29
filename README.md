@@ -28,7 +28,7 @@
 
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
-  |  Email Header Analysis: Autenticidade e Prevenção contra Phishing | [laboratório](https://github.com/enzoromeiro/email-analise-de-cabecalho) | |
+  |  Análise de Cabeçalho de E-mail: Autenticidade e Prevenção contra Phishing | [laboratório](https://github.com/enzoromeiro/email-analise-de-cabecalho) | |
   |  Wazuh SIEM - Identificação de pós-exploração através de Dashboard personalizado e auditoria de comandos Linux | [laboratório](https://github.com/enzoromeiro/wazuh-dashboard-e-regras) | |
   |  IDOR - Exploração de Vulnerabilidade Web | [laboratório](https://github.com/enzoromeiro/vulnerabilidade-idor) | [youtube](https://youtu.be/1sDIKj-OPDg?si=bk36aWt_oK4GutU-) |
 
