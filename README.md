@@ -3,7 +3,7 @@
 
 <div>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=10000&color=A9A9A9&center=true&vCenter=true&repeat=false&width=1000&lines=erseceXe)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=10000&color=A9A9A9&center=true&vCenter=true&repeat=false&width=1000&lines=Enzo+Romeiro)](https://git.io/typing-svg)
   
 </div>
 
@@ -24,7 +24,7 @@
 <div> 
   <br>
 
-  ## Home Lab👨🏻‍💻🧪
+  ## Laboratório / Meus Projetos 👨🏻‍💻🧪
 
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
