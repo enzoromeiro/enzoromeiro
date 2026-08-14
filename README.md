@@ -29,8 +29,9 @@
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
   |  Active Directory - Prevenção contra Brute Force via GPO e Account Lockout | [laboratório](https://github.com/enzoromeiro/ad-prevencao-de-bruteforce) | |
-  |  Análise de Cabeçalho de E-mail - Autenticidade e Prevenção contra Phishing | [laboratório](https://github.com/enzoromeiro/email-analise-de-cabecalho) | |
   |  Wazuh SIEM - Identificação de pós-exploração através de Dashboard personalizado e auditoria de comandos Linux | [laboratório](https://github.com/enzoromeiro/wazuh-dashboard-e-regras) | |
+  |  Nessus - O caçador de vulnerabilidades | [laboratório](https://github.com/enzoromeiro/nessus-scan-de-vulnerabilidades) | |
+  |  Análise de Cabeçalho de E-mail - Autenticidade e Prevenção contra Phishing | [laboratório](https://github.com/enzoromeiro/email-analise-de-cabecalho) | |
   |  IDOR - Exploração de Vulnerabilidade Web | [laboratório](https://github.com/enzoromeiro/vulnerabilidade-idor) | [youtube](https://youtu.be/1sDIKj-OPDg?si=bk36aWt_oK4GutU-) |
   
 
