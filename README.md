@@ -27,6 +27,7 @@
 
   | Título                                        | Projeto Associado          | Youtube                   |
   |-----------------------------------------------|----------------------------|---------------------------|
+  |  Writeup Volt Typhoon (THM) | [laboratório](https://github.com/enzoromeiro/writeup_volt_typhoon) | |
   |  Active Directory - Prevenção contra Brute Force via GPO e Account Lockout | [laboratório](https://github.com/enzoromeiro/ad-prevencao-de-bruteforce) | |
   |  Wazuh SIEM - Identificação de pós-exploração através de Dashboard personalizado e auditoria de comandos Linux | [laboratório](https://github.com/enzoromeiro/wazuh-dashboard-e-regras) | |
   |  Nessus - O caçador de vulnerabilidades | [laboratório](https://github.com/enzoromeiro/nessus-scan-de-vulnerabilidades) | |
